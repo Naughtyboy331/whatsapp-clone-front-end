@@ -7,7 +7,7 @@ import MoreVertIcon from '@material-ui/icons/MoreVert';
 import InsertEmoticonIcon from '@material-ui/icons/InsertEmoticon';
 import MicIcon from '@material-ui/icons/Mic';
 import { useParams } from 'react-router-dom';
-import db from './Firebase';
+import db from './firebase';
 import { useStateValue } from './StateProvider';
 import firebase from "firebase";
 
